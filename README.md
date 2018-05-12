@@ -2,5 +2,5 @@
 1. Git clone the repo<br/>
    `https://github.com/smilysyndrella/instamotorsbuild/`
    
-2. start the static server by 
+2. start the static server by <br/>
    `node index.js`
